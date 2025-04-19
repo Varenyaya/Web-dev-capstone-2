@@ -1,0 +1,97 @@
+.title{
+    background-color: hwb(188 7% 10%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+h1{
+    font-family: "Alex Brush", cursive;
+    color: white;
+    word-spacing: 2px;
+    font-size: 100px;
+}
+p{
+    font-family: "Pathway Gothic One", sans-serif;
+    color: white;
+    word-spacing: 2px;
+    font-size: 35px;
+}
+.experience h3{
+    font-family: "Pathway Gothic One", sans-serif;
+    color: rgb(56, 55, 57);
+    word-spacing: 2px;
+    font-size: 80px;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.resume{
+    background-color: whitesmoke;
+}
+button{
+    font-family: "Wire One", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.experience{
+    background-color: #229799;
+}
+.experience a{
+    font-family: "Wire One", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.experience a{
+    margin-bottom: 10px;
+}
+.hobbies h2{
+    font-family: "Alex Brush", cursive;
+    color: black;
+    word-spacing: 2px;
+    font-size: 50px;
+}
+.hobbies p{
+    font-family: "Pathway Gothic One", sans-serif;
+    color: grey;
+    font-size: 20px;
+}
+.hobbies{
+    background-color: whitesmoke;
+}
+.hobbies h1{
+    font-family: "Alex Brush", cursive;
+    color: black;
+    word-spacing: 2px;
+    font-size: 100px;
+    text-align: center;
+}
+.contact-me{
+    background-color: #13c8e5;
+}
+.contact-me h1{
+    font-family: "Alex Brush", cursive;
+    color: white;
+    word-spacing: 2px;
+    font-size: 100px;
+    text-align: center;
+}
+.contact-me p{
+    font-family: "Pathway Gothic One", sans-serif;
+    color: white;
+    word-spacing: 2px;
+    font-size: 30px;
+}
+.footer{
+    background-color: #424242;
+}
+.nav-link{
+    font-family: "Wire One", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: white;
+}
